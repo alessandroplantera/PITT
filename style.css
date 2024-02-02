@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('font/HelveticaNeue-Bold-02.ttf') format('ttf'),
+         url('font/HelveticaNeue-Bold-02.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    margin:0;
+    padding: 0;
+}
+#orologio {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    /* Altre proprietà di stile come dimensione del font, colore, ecc. */
+    font-size: 100px;
+    color: black;
+}
