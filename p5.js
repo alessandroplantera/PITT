@@ -40,8 +40,8 @@ let isSoundPlaying = false;
 //orario sveglia//orario sveglia
 //orario sveglia
 //orario sveglia
-let alarmHo = 3;
-let alarmMi = 0;
+let alarmHo = 7;
+let alarmMi = 20;
 //orario sveglia
 //orario sveglia
 //orario sveglia//orario sveglia
@@ -182,7 +182,7 @@ let unlock_state = 8;
 let intro_state = 9;
 
 //Tracking states
-let current_state = ringing_state;
+let current_state = sleeping_state;
 let exercises_state = user_absent_state;
 
 //Time states
