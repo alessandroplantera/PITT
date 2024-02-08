@@ -41,7 +41,7 @@ let isSoundPlaying = false;
 //orario sveglia
 //orario sveglia
 let alarmHo = 7;
-let alarmMi = 20;
+let alarmMi = 26;
 //orario sveglia
 //orario sveglia
 //orario sveglia//orario sveglia
