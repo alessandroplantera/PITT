@@ -1,14 +1,14 @@
-# ⏰ PITT – Personal Training Alarm Clock
+# ⏰ PITTT – Personal Training Alarm Clock
 
-**PIT** is a personal training alarm clock designed to help you wake up and stay fit from the very first moment of your day.  
+**PITT** is a personal training alarm clock designed to help you wake up and stay fit from the very first moment of your day.  
 It turns your morning alarm into a small workout session — the alarm **can only be turned off** by completing a set of physical exercises.
 
 ---
 
-## 🧠 Why PIT?
+## 🧠 Why PITT?
 
 With a traditional alarm, it's easy to hit snooze and delay your wake-up, harming your **mental alertness** and breaking your morning routine.  
-PIT forces you to **get moving**, boosting your metabolism and creating a healthier start to the day.
+PITT forces you to **get moving**, boosting your metabolism and creating a healthier start to the day.
 
 ---
 
