@@ -38,7 +38,9 @@ PIT forces you to **get moving**, boosting your metabolism and creating a health
 
 ## 👨‍💻 Authors
 
-Created by **Alessandro Plantera** & **Alice Mioni** as a playful yet meaningful approach to healthy habit design.  
+Created by **Alessandro Plantera** & **Alice Mioni** as a playful yet meaningful approach to healthy habit design.
+This project was part of the Machine Learning for Designers course, Master in Interaction Design (SUPSI)
+
 Feel free to fork, remix, or adapt.
 
 ---
